@@ -5,9 +5,11 @@
 #gauche{
   color: blue;
   height: 120px;
+  width: 50%;
 }
 
 #droite{
   color: red;
   height: 120px;
+  width: 50%;
 }
