@@ -1,3 +1,5 @@
+var app = angular.module('cv_web', ["ngRoute"]);
+
 app.config(function($routeProvider) {
   $routeProvider
   .when("/", {
