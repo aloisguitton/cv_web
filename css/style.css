@@ -5,14 +5,14 @@
 #gauche{
   background-color: blue;
   height: 120px;
-  width: 50%;
+  width: 80%;
   float: left;
 }
 
 #droite{
   background-color: red;
   height: 120px;
-  width: 50%;
+  width: 20%;
   float: right;
 }
 
