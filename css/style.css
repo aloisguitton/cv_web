@@ -2,13 +2,7 @@
     height: auto;
     width: 100%;
     float: left;
-}
-
-#gauche{
-  background-color: grey;
-  height: auto;
-  width: 80%;
-  float: left;
+    background-color: grey;
 }
 
 #droite{
