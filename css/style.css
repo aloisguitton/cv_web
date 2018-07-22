@@ -29,16 +29,12 @@
 #photo_main > img{
   display: block;
   width: 100%;
+  color: red;
 }
 
 #titre_droite{
   font-size: 25px;
   font-weight: bold;
-}
-
-#centre_droite_main > a{
-  color: white;
-  margin-top: 12px;
 }
 
 .nav-item{
