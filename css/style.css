@@ -36,12 +36,12 @@
   font-weight: bold;
 }
 
-#centre_droite_main > a{
+#centre_droite_main > div > a{
   color: white;
 }
 
-#centre_droite_main > div {
-  margin-top: 20px;
+#centre_droite_main > div{
+  margin-top: 10px;
 }
 
 .nav-item{
