@@ -33,8 +33,12 @@
 
 #titre_droite{
   font-size: 25px;
-  color: white;
   font-weight: bold;
+}
+
+#centre_droite_main>a{
+  color: white;
+  margin-top: 12px;
 }
 
 .nav-item{
