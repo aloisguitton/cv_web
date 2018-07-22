@@ -32,4 +32,5 @@
 
 #photo_main > img{
   display: block;
+  width: 100%;
 }
