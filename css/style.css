@@ -14,7 +14,6 @@
   height: 120px;
   width: 20%;
   float: right;
-  display: inline-block;
 }
 
 #dessous{
@@ -29,6 +28,7 @@
   margin-right: auto;
   width: 60%;
   height: 40px;
+    display: inline-block;
 }
 
 #photo_main > img{
