@@ -1,12 +1,12 @@
 #main-content{
     height: auto;
-    width: 100%
+    width: 100%;
     float: left;
 }
 
 #gauche{
   background-color: grey;
-  height: autp;
+  height: auto;
   width: 80%;
   float: left;
 }
