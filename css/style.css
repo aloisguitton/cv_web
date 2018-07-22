@@ -22,8 +22,9 @@
   background-color: white;
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
+  width: 80%;
   height: auto;
+  margin-top: 10px;
 }
 
 #photo_main > img{
