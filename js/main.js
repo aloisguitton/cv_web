@@ -1,11 +1,11 @@
 var app = angular.module('cv_web', ["ngRoute"])
   .config(function($routeProvider) {
     $routeProvider
-    .when("/#!", {
-      templateUrl: "../html/main.html"
+    .when("/", {
+      templateUrl: "/html/main.html"
     })
     .when("/formation", {
-      templateUrl: "html/formation"
+      templateUrl: "html/formation.html"
     })
     .otherwise({
       redirectTo: '/'
