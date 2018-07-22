@@ -6,7 +6,7 @@
 }
 
 #droite{
-  background-color: red;
+  background-color: #4196e0;
   height: auto;
   width: 20%;
   float: right;
@@ -29,13 +29,16 @@
 #photo_main > img{
   display: block;
   width: 100%;
-  color: red;
 }
 
 #titre_droite{
   font-size: 25px;
   font-weight: bold;
-  color: red;
+}
+
+#centre_droite_main > a{
+  color: white;
+  margin-top: 12px;
 }
 
 .nav-item{
