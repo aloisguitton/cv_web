@@ -37,6 +37,10 @@
   font-weight: bold;
 }
 
+.nav-item{
+  height: auto;
+}
+
 .nav-item:hover{
   background-color: #459fed ! important;
   transition: 2s;
