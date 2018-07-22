@@ -34,3 +34,8 @@
   display: block;
   width: 100%;
 }
+
+#titre_droite{
+  font-size: 13px;
+  color: white;
+}
