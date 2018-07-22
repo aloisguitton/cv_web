@@ -1,7 +1,7 @@
 var app = angular.module('cv_web', ["ngRoute"])
   .config(function($routeProvider) {
     $routeProvider
-    .when("/", {
+    .when("/#!", {
       templateUrl: "../html/main.html"
     })
     .when("/formation", {
