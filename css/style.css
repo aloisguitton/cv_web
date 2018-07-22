@@ -24,7 +24,6 @@
   margin-right: auto;
   width: 60%;
   height: auto;
-  margin-bottom: 100px;
 }
 
 #photo_main > img{
@@ -39,6 +38,10 @@
 
 #centre_droite_main > a{
   color: white;
+}
+
+#centre_droite_main > div {
+  margin-top: 20px;
 }
 
 .nav-item{
