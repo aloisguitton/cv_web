@@ -7,7 +7,7 @@
 
 #droite{
   background-color: blue;
-  height: 120px;
+  height: auto;
   width: 20%;
   float: right;
 }
