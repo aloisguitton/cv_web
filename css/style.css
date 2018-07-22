@@ -36,3 +36,7 @@
   color: white;
   font-weight: bold;
 }
+
+.navbar-nav{
+  background-color: red ! important;
+}
