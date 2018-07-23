@@ -8,6 +8,7 @@
 #main-content > img{
   display: block;
   width: 80%;
+  float: left;
 }
 
 #droite{
