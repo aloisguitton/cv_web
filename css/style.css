@@ -51,7 +51,7 @@
 }
 
 #telechargement > a{
-  color: #4196e0;
+  color: #4196e0 !important;
 }
 
 .nav-link:hover{
