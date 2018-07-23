@@ -46,10 +46,13 @@
   border-radius: 50%;
 }
 
+#nom{
+  margin-top: 15px;
+}
+
 #titre_droite{
   font-size: 25px;
   font-weight: bold;
-  margin-top: 15px;
 }
 
 #telechargement{
