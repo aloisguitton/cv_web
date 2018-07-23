@@ -47,8 +47,8 @@
 }
 
 .nav-link:hover{
-  color: rgba(125, 125, 125, 1) !important;
-  transition: 2s;
+  color: rgba(100, 100, 100, 1) !important;
+  transition: 1s;
 }
 
 .nav-item{
