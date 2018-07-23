@@ -12,6 +12,11 @@
   float: right;
 }
 
+#gauche{
+  float: left;
+  width: 80%;
+}
+
 #dessous{
   width: 100%;
   height: 50px;
@@ -29,12 +34,9 @@
   border-radius: 50%;
 }
 
-#main-content > img{
-  display: block;
-  width: 80%;
-  float: left;
-  background-color: white;
-  overflow: hidden;
+#gauche > img{
+  object-fit: cover;
+  width: 100%;
 }
 
 #photo_main > img{
