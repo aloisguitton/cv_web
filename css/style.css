@@ -46,6 +46,9 @@
   margin-bottom: 10px;
 }
 
+nav-link:hover{
+  color: white;
+}
 .nav-item{
   height: auto;
 }
