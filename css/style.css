@@ -1,5 +1,5 @@
 #main-content{
-    height: 400px;
+    height: 600px;
     width: 100%;
     float: left;
     background-color: grey;
@@ -38,7 +38,7 @@
   object-fit: cover;
   width: 100%;
   overflow: hidden;
-  height: 400px;
+  height: 600px;
 }
 
 #photo_main > img{
