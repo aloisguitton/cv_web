@@ -25,6 +25,7 @@
   width: 80%;
   height: auto;
   margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 #photo_main > img{
@@ -42,7 +43,7 @@
 }
 
 #centre_droite_main > div{
-  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .nav-item{
