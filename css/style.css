@@ -46,6 +46,10 @@
   border-radius: 50%;
 }
 
+#contact{
+  margin-top: 40px
+}
+
 #nom, #etudiant{
   margin-top: 25px;
 }
@@ -60,6 +64,7 @@
   width: 55%;
   padding-bottom: 4px;
   padding-top: 4px;
+  margin-top: 40px;
 }
 
 #centre_droite_main > div > a{
