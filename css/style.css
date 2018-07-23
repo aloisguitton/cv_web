@@ -8,7 +8,7 @@
 #droite{
   background-color: #4196e0;
   height: auto;
-  width: 20%;
+  width: 80%;
   float: right;
 }
 
@@ -40,7 +40,7 @@
 
 #telechargement{
   background-color: white;
-  width: 75%;
+  width: 80%;
 }
 
 #centre_droite_main > div > a{
