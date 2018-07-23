@@ -50,6 +50,10 @@
   margin-bottom: 10px;
 }
 
+#telechargement > a{
+  color: #4196e0;
+}
+
 .nav-link:hover{
   color: rgba(100, 100, 100, 1) !important;
   transition: 1s;
