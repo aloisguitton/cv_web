@@ -5,6 +5,12 @@
     background-color: grey;
 }
 
+#main-content > img{
+  display: block;
+  width: 100%;
+  border-radius: 50%;
+}
+
 #droite{
   background-color: #4196e0;
   height: auto;
