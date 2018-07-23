@@ -42,7 +42,9 @@
 
 #telechargement{
   background-color: white;
-  width: 80%;
+  width: 60%;
+  padding-bottom: 2px;
+  padding-top: 2px;
 }
 
 #centre_droite_main > div > a{
