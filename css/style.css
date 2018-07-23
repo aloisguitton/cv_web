@@ -48,7 +48,7 @@
 
 .nav-link:hover{
   color: white !important;
-  transition: 1s;
+  transition: 2s; 
 }
 
 .nav-item{
