@@ -37,6 +37,8 @@
 #gauche > img{
   object-fit: cover;
   width: 100%;
+  overflow: hidden;
+  height: 400px;
 }
 
 #photo_main > img{
