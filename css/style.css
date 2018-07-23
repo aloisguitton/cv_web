@@ -46,8 +46,8 @@
   border-radius: 50%;
 }
 
-#nom{
-  margin-top: 15px;
+#nom, #etudiant{
+  margin-top: 25px;
 }
 
 #titre_droite{
