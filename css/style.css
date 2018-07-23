@@ -5,6 +5,13 @@
     background-color: grey;
 }
 
+#gauche{
+  background-color: white;
+  height: 100%;
+  width: 80%;
+  float: left;
+}
+
 #droite{
   background-color: #4196e0;
   height: auto;
