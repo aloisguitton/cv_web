@@ -38,6 +38,10 @@
   font-weight: bold;
 }
 
+#telechargement{
+  background-color: white;
+}
+
 #centre_droite_main > div > a{
   color: white;
 }
