@@ -1,15 +1,8 @@
 #main-content{
-    height: auto;
+    height: 400px;
     width: 100%;
     float: left;
     background-color: grey;
-}
-
-#gauche{
-  display: block;
-  width: 80%;
-  float: left;
-  background-color: white;
 }
 
 #droite{
@@ -34,6 +27,13 @@
   margin-top: 10px;
   margin-bottom: 10px;
   border-radius: 50%;
+}
+
+#main-content > img{
+  display: block;
+  width: 80%;
+  float: left;
+  background-color: white;
 }
 
 #photo_main > img{
