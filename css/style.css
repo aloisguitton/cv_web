@@ -8,7 +8,7 @@
 #droite{
   background-color: #4196e0;
   height: auto;
-  width: 80%;
+  width: 20%;
   float: right;
 }
 
@@ -22,7 +22,7 @@
   background-color: white;
   margin-left: auto;
   margin-right: auto;
-  width: 70%;
+  width: 80%;
   height: auto;
   margin-top: 10px;
   margin-bottom: 10px;
