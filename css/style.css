@@ -155,3 +155,7 @@
   background-color: grey;
   margin-top: 86px;
 }
+
+.inline{
+    display: inline;
+}
