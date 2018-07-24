@@ -1,3 +1,5 @@
+/*CSS main.html*/
+
 #main-content{
     height: 510px;
     width: 100%;
@@ -90,6 +92,7 @@
   margin-left: 2%;
   font-family: 'Merienda', cursive;
 }
+
 #passe{
   color: rgba(135, 54, 255, 1);
   font-size: 25px;
@@ -141,4 +144,14 @@
   font-size: 18px;
   margin-left: 1%;
   font-family: 'Quicksand', sans-serif;
+}
+
+/*CSS formation.html*/
+
+#main_formation{
+  height: auto;
+  width: 100%;
+  float: left;
+  background-color: grey;
+  margin-top: 86px;
 }
