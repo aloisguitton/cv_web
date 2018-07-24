@@ -60,7 +60,8 @@
 }
 
 #gauche > p{
-  left: 15%;
+  left: 8%;
+  max-width: 64%;
 }
 
 #gauche > img{
