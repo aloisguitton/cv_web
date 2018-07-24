@@ -25,7 +25,7 @@
 #etudiant_en{
   z-index: 2;
   position: absolute;
-  top: 460px;
+  top: 480px;
   color: white;
   font-size: 25px;
   font-style: italic;
@@ -46,7 +46,7 @@
 #dessous{
   width: 100%;
   height: auto;
-  background-color: rgba(100, 100, 100, 1);
+  background-color: rgba(190, 190, 190, 1);
   float: left;
 }
 
@@ -81,6 +81,11 @@
   margin-top: 10px;
   margin-bottom: 15px;
   border-radius: 50%;
+}
+
+#a_propos{
+  color: white;
+  font-size: 35px;
 }
 
 #gauche > p{
