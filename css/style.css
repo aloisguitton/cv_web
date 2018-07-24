@@ -84,15 +84,17 @@
 }
 
 #a_propos{
-  color: white;
+  color: rgba(135, 54, 255, 1);
   font-size: 35px;
   margin-left: 2%;
   font-style: italic;
 }
 #passe{
-  color: white;
+  color: rgba(135, 54, 255, 1);
   font-size: 25px;
   margin-left: 2%;
+  margin-top: -15px;
+  margin-bottom: 45px;
 }
 
 #gauche > p{
@@ -132,7 +134,7 @@
 }
 
 .des_pass{
-  color: rgba(135, 54, 255, 1);
+  color: black;
   font-size: 18px;
   margin-left: 1%
 }
