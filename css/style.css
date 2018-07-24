@@ -91,7 +91,7 @@
 #passe{
   color: white;
   font-size: 25px;
-  margin-left: 3%;
+  margin-left: 2%;
 }
 
 #gauche > p{
@@ -131,6 +131,7 @@
 }
 
 .des_pass{
-  color: white;
+  color: rgba(135, 54, 255, 1);
   font-size: 18px;
+  margin-left: 1%
 }
