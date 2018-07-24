@@ -51,7 +51,7 @@
 }
 
 #contact{
-  margin-top: 40px;
+  margin-top: 40px
 }
 
 #nom, #etudiant{
@@ -110,27 +110,6 @@
   display: block;
   width: 100%;
   border-radius: 50%;
-}
-
-#contact{
-  margin-top: 40px
-}
-
-#nom, #etudiant{
-  margin-top: 25px;
-}
-
-#titre_droite{
-  font-size: 25px;
-  font-weight: bold;
-}
-
-#telechargement{
-  color: white;
-  width: 55%;
-  padding-bottom: 4px;
-  padding-top: 4px;
-  margin-top: 40px;
 }
 
 #centre_droite_main > div > a{
