@@ -32,7 +32,7 @@
 
 .navbar-brand > a{
   font-size: 1.3em;
-  color: white;
+  color: white !important;
 }
 
 li > a{
