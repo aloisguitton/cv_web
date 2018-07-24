@@ -139,5 +139,6 @@
 .des_pass{
   color: black;
   font-size: 18px;
-  margin-left: 1%
+  margin-left: 1%;
+  font-family: 'Quicksand', sans-serif;
 }
