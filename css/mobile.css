@@ -14,6 +14,10 @@
   max-width: 150px;
 }
 
+#telechargement{
+  font-size: 1.2em;
+}
+
 #gauche > img, #main-content{
   height: 600px;
 }
@@ -25,6 +29,6 @@
 li > a{
   font-size: 2em;
 }
-#telechargement, .des_pass{
+.des_pass{
   font-size: 1.6em;
 }
