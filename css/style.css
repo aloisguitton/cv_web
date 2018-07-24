@@ -59,6 +59,10 @@
   border-radius: 50%;
 }
 
+#gauche > p{
+  left: 15%;
+}
+
 #gauche > img{
   object-fit: cover;
   width: 100%;
