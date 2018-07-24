@@ -9,6 +9,26 @@
   z-index: 2;
   position: absolute;
   top: 360px;
+  color: white;
+  font-size: 35px;
+}
+
+#alois{
+  z-index: 2;
+  position: absolute;
+  top: 410px;
+  color: white;
+  font-size: 45px;
+  font-weight: bold;
+}
+
+#etudiant_en{
+  z-index: 2;
+  position: absolute;
+  top: 480px;
+  color: white;
+  font-size: 25px;
+  font-style: italic;
 }
 
 #droite{
@@ -25,8 +45,32 @@
 
 #dessous{
   width: 100%;
-  height: 50px;
-  background-color: yellow;
+  height: auto;
+  background-color: rgba(190, 190, 190, 1);
+  float: left;
+}
+
+#contact{
+  margin-top: 40px
+}
+
+#nom, #etudiant{
+  margin-top: 25px;
+}
+
+#titre_droite{
+  font-size: 25px !important;
+  font-weight: bold;
+}
+
+#telechargement{
+  background-color: white;
+  width: 55%;
+  padding-bottom: 4px;
+  padding-top: 4px;
+  margin-top: 40px;
+  color: #4196e0;
+  font-size: 16px;
 }
 
 #photo_main{
@@ -37,6 +81,22 @@
   margin-top: 10px;
   margin-bottom: 15px;
   border-radius: 50%;
+}
+
+#a_propos{
+  color: white;
+  font-size: 35px;
+  margin-left: 2%;
+}
+#passe{
+  color: white;
+  font-size: 25px;
+  margin-left: 3%;
+}
+
+#gauche > p{
+  left: 8%;
+  max-width: 64%;
 }
 
 #gauche > img{
@@ -52,6 +112,7 @@
   border-radius: 50%;
 }
 
+<<<<<<< HEAD
 #contact{
   margin-top: 40px
 }
@@ -73,8 +134,11 @@
   margin-top: 40px;
 }
 
+=======
+>>>>>>> 67626ac0a6cd10527acf8f1a0eaa6771681f3220
 #centre_droite_main > div > a{
   color: white;
+  font-size: 18px;
 }
 
 .nav-link:hover{
