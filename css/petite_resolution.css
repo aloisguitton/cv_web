@@ -1,6 +1,7 @@
-#droite{
-  background-color: #4196e0;
-  height: 100%;
+#droite, #gauche{
   width: 50%;
-  float: right;
+}
+
+#bonjour, #alois, #etudiant_en{
+  display: none;
 }
