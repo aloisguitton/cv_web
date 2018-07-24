@@ -10,6 +10,25 @@
   position: absolute;
   top: 360px;
   color: white;
+  font-size: 35px;
+}
+
+#alois{
+  z-index: 2;
+  position: absolute;
+  top: 410px;
+  color: white;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+#etudiant_en{
+  z-index: 2;
+  position: absolute;
+  top: 460px;
+  color: white;
+  font-size: 25px;
+  font-style: italic;
 }
 
 #droite{
