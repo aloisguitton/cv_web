@@ -159,3 +159,7 @@
 .inline{
   display: flex;
 }
+
+.gras{
+  font-weight: bold;
+}
