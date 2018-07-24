@@ -22,8 +22,12 @@
   height: 550px;
 }
 
+#etudiant > a, #contact > a{
+  font-size: 1.5em;
+}
+
 .navbar-brand > a{
-  font-size: 1.3em;
+  font-size: 1.5em;
 }
 
 li > a{
