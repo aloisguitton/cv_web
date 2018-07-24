@@ -13,3 +13,7 @@
 #photo_main{
   max-width: 150px;
 }
+
+li > a{
+  font-size: 1.2em;
+}
