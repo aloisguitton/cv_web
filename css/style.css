@@ -86,6 +86,12 @@
 #a_propos{
   color: white;
   font-size: 35px;
+  margin-left: 2%;
+}
+#passe{
+  color: white;
+  font-size: 25px;
+  margin-left: 3%;
 }
 
 #gauche > p{
