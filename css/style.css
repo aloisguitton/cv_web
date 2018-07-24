@@ -9,6 +9,7 @@
   z-index: 2;
   position: absolute;
   top: 360px;
+  color: white;
 }
 
 #droite{
@@ -72,10 +73,12 @@
   padding-top: 4px;
   margin-top: 40px;
   color: #4196e0;
+  font-size:
 }
 
 #centre_droite_main > div > a{
   color: white;
+  font-size: 15px;
 }
 
 .nav-link:hover{
