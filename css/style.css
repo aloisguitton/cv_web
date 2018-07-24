@@ -29,7 +29,7 @@
   top: 480px;
   color: white;
   font-size: 25px;
-  font-style: italic;
+  font-family: 'Merienda', cursive;
 }
 
 #droite{
@@ -88,7 +88,7 @@
   color: rgba(135, 54, 255, 1);
   font-size: 35px;
   margin-left: 2%;
-  font-style: italic;
+  font-family: 'Merienda', cursive;
 }
 #passe{
   color: rgba(135, 54, 255, 1);
