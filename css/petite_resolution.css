@@ -1,7 +1,15 @@
-#droite, #gauche{
-  width: 50%;
+#droite{
+  width: 40%;
+}
+
+#gauche{
+  width: 60%;
 }
 
 #bonjour, #alois, #etudiant_en{
   display: none;
+}
+
+#photo_main{
+  max-width: 150px;
 }
