@@ -1,7 +1,7 @@
 /*CSS main.html*/
 
 #main-content{
-    height: 510px;
+    height: 560px;
     width: 100%;
     float: left;
     background-color: grey;
@@ -57,7 +57,7 @@
   margin-top: 40px
 }
 
-#nom, #etudiant{
+#nom, #etudiant, #age_permis{
   margin-top: 25px;
 }
 
@@ -112,7 +112,7 @@
   object-fit: cover;
   width: 100%;
   overflow: hidden;
-  height: 510px;
+  height: 560px;
 }
 
 #photo_main > img{
