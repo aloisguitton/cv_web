@@ -7,6 +7,9 @@ var app = angular.module('cv_web', ["ngRoute"])
     .when("/formation", {
       templateUrl: "html/formation.html"
     })
+    .when("/experience", {
+      templateUrl: "html/experience.html"
+    })
     .otherwise({
       redirectTo: '/'
     })
