@@ -33,18 +33,19 @@
 }
 
 .navbar-brand > a{
-  font-size: 1.3em;
+  font-size: 1.1em;
   color: white !important;
 }
 
 li > a{
   font-size: 2em;
 }
+
 .des_pass{
   font-size: 1.6em;
 }
 
 .navbar-toggler-icon{
-  height: 55px;
-  width: 65px;
+  height: 45px;
+  width: 55px;
 }
