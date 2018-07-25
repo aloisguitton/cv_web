@@ -11,9 +11,3 @@ var app = angular.module('cv_web', ["ngRoute"])
       redirectTo: '/'
     })
   });
-
-  var telechargement = document.getElementbyId("telechargement");
-  telechargement.style.cursor = 'pointer';
-  telechargement.onclick = function(){
-    alert("ok");
-  };
