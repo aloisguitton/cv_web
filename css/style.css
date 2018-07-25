@@ -1,7 +1,7 @@
 /*CSS main.html*/
 
 #main-content{
-    height: 560px;
+    height: 540px;
     width: 100%;
     float: left;
     background-color: grey;
@@ -112,7 +112,7 @@
   object-fit: cover;
   width: 100%;
   overflow: hidden;
-  height: 560px;
+  height: 540px;
 }
 
 #photo_main > img{
