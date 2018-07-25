@@ -183,3 +183,13 @@
   margin-left: 1%;
   color: #4196e0;
 }
+
+/*CSS experience.html*/
+
+#main_experience{
+  height: auto;
+  width: 100%;
+  float: left;
+  background-color: white;
+  margin-top: 92px;
+}
