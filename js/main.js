@@ -17,3 +17,7 @@ var app = angular.module('cv_web', ["ngRoute"])
       redirectTo: '/'
     })
   });
+
+  function construc(){
+    alert("Site en construction");
+  }
