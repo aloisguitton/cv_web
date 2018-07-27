@@ -11,7 +11,7 @@ var app = angular.module('cv_web', ["ngRoute"])
       templateUrl: "html/experience.html"
     })
     .when("/competences_et_langues", {
-      templateUrl("html/competence_langue.html")
+      templateUrl: "html/competence_langue.html"
     })
     .otherwise({
       redirectTo: '/'
