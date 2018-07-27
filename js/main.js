@@ -22,8 +22,6 @@ var app = angular.module('cv_web', ["ngRoute"])
     alert("Site en construction");
   }
 
-function pro(){
-  $('#anglais').progressbar({
+$('#anglais').progressbar({
     value: 50
-  });
-}
+});
