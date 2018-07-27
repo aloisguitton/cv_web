@@ -195,3 +195,11 @@
 }
 
 /*CSS competence*/
+
+#main_competence{
+  height: auto;
+  width: 100%;
+  float: left;
+  background-color: white;
+  margin-top: 92px;
+}
