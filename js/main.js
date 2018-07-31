@@ -23,15 +23,17 @@ var app = angular.module('cv_web', ["ngRoute"])
   }
 
 function move() {
-    var elem = document.getElementById("myBar");
+    var anglais = document.getElementById("anglais");
+    var espagnol =document.getElementById("espagnol");
     var width = 1;
     var id = setInterval(frame, 10);
     function frame() {
-        if (width >= 100) {
+        if (width >= 60) {
             clearInterval(id);
         } else {
             width++; 
-            elem.style.width = width + '%'; 
+            anglais.style.width = width + '%'; 
+            espagnol.style.width = width + '%';
         }
     }
 }
