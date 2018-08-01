@@ -24,7 +24,7 @@ var app = angular.module('cv_web', ["ngRoute"])
 
 function move() {
     var anglais = document.getElementById("anglais");
-    var espagnol =document.getElementById("espagnol");
+    var espagnol = document.getElementById("espagnol");
     var width = 1;
     var id = setInterval(frame, 10);
     function frame() {
@@ -33,7 +33,6 @@ function move() {
         } else {
             width++; 
             anglais.style.width = width + '%'; 
-            espagnol.style.width = width + '%';
         }
     }
 }
