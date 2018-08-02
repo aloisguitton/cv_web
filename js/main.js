@@ -35,7 +35,8 @@ function move() {
             width++; 
             if (width <= 70){
               anglais.style.width = width + '%'; 
-            } else if (width <= 60){
+            } 
+            if (width <= 60){
               espagnol.style.width = width + '%';
             }
         }
