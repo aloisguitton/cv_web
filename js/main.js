@@ -29,7 +29,6 @@ function move() {
     var width = 1;
     var id = setInterval(frame, 10);
     function frame() {
-      alert(width);
         if (width >= 60) {
             clearInterval(id);
         } else {
