@@ -33,7 +33,9 @@ function move() {
             clearInterval(id);
         } else{
             width++; 
-            
+            if (width <= 70){
+              anglais.style.width = width + '%'; 
+            } 
         }
     }
 }
