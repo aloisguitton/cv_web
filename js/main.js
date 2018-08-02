@@ -34,6 +34,7 @@ function move() {
         } else {
             width++; 
             anglais.style.width = width + '%'; 
+            espagnol.style.width = width + '%';
         }
     }
 }
