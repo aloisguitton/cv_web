@@ -29,12 +29,15 @@ function move() {
     var width = 1;
     var id = setInterval(frame, 10);
     function frame() {
-        if (width >= 60) {
+        if (width >= 100) {
             clearInterval(id);
-        } else {
+        } else{
             width++; 
-            anglais.style.width = width + '%'; 
-            espagnol.style.width = width + '%';
+            if (width <= 70){
+              anglais.style.width = width + '%'; 
+            } elseif (width <= 60){
+              espagnol.style.width = width + '%';
+            }
         }
     }
 }
