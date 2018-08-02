@@ -33,11 +33,7 @@ function move() {
             clearInterval(id);
         } else{
             width++; 
-            if (width <= 70){
-              anglais.style.width = width + '%'; 
-            } elseif (width <= 60){
-              espagnol.style.width = width + '%';
-            }
+            
         }
     }
 }
