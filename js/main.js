@@ -38,6 +38,6 @@ function move() {
             } elseif (width <= 60){
               espagnol.style.width = width + '%';
             }
-        }
+        } 
     }
 }
