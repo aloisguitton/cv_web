@@ -214,7 +214,7 @@
     background-color: grey;
 }
 
-#anglais, espagnol{
+#anglais, #espagnol{
     width: 1%;
     height: 30px;
     background-color: green;
