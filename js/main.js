@@ -18,16 +18,15 @@ var app = angular.module('cv_web', ["ngRoute"])
     })
   });
 
-  function construc(){
-    alert("Site en construction");
-  }
+function construc(){
+  alert("Site en construction");
+}
   
-$(function(){ 
-     var navMain = $("#nav-main");
-     navMain.on("click", "a", null, function () {
-         navMain.collapse('hide');
-     });
- })
+$(document).on('click','.navbar-collapse.in',function(e) {
+  if( $(e.target).is('a') ) {
+      $(this).collapse('hide');
+  }
+});
 
 function move() {
     var anglais = document.getElementById("anglais");
