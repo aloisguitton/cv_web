@@ -2,7 +2,11 @@
 .titre{
   margin-left:auto;
   margin-right:auto;
-  color: blue;
+  color: #4196e0;
+}
+
+.titre_content{
+  width: 100%;
 }
 
 /*CSS main.html*/
