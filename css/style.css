@@ -187,12 +187,13 @@
 .gras{
   font-weight: bold;
   color: #4196e0;
-  font-size: 0.8em;
+  font-size: 1em;
 }
 
 .date{
   margin-left: 1%;
   color: #4196e0;
+  font-size: 1em;
 }
 
 /*CSS experience.html*/
