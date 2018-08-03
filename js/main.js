@@ -13,6 +13,9 @@ var app = angular.module('cv_web', ["ngRoute"])
     .when("/competences_et_langues", {
       templateUrl: "html/competence_langue.html"
     })
+    .when("/centre_interet", {
+      templateUrl: "html/centre_interet.html"
+    })
     .otherwise({
       redirectTo: '/'
     })

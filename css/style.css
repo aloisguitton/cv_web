@@ -1,11 +1,18 @@
+/*CSS all*/
+.titre{
+  margin-left:auto;
+  margin-right:auto;
+  color: blue;
+}
+
 /*CSS main.html*/
 
 #main-content{
-    height: 540px;
-    width: 100%;
-    float: left;
-    background-color: grey;
-    margin-top: 86px;
+  height: 540px;
+  width: 100%;
+  float: left;
+  background-color: grey;
+  margin-top: 86px;
 }
 
 #bonjour{
