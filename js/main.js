@@ -26,6 +26,9 @@ function move() {
     alert("click");
     var anglais = document.getElementById("anglais");
     var espagnol = document.getElementById("espagnol");
+    var java = document.getElementById("java");
+    var html = document.getElementById("html");
+    var reseau = document.getElementById("reseau");
     var width = 1;
     var id = setInterval(frame, 10);
     function frame() {
@@ -33,11 +36,16 @@ function move() {
             clearInterval(id);
         } else{
             width++; 
+            if (width <=80){
+              html.style.width = width + '%';
+            }
             if (width <= 70){
               anglais.style.width = width + '%'; 
+              reseau.style.width = width + '%';
             } 
             if (width <= 60){
               espagnol.style.width = width + '%';
+              java.style.width = width + '%';
             }
         }
     }
