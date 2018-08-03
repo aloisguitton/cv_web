@@ -23,7 +23,6 @@ var app = angular.module('cv_web', ["ngRoute"])
   }
 
 function move() {
-    alert("click");
     var anglais = document.getElementById("anglais");
     var espagnol = document.getElementById("espagnol");
     var java = document.getElementById("java");
