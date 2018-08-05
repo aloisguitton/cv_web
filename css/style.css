@@ -148,6 +148,7 @@ li{
 
 .nav-item{
   height: auto;
+  font-size: 1em;
 }
 
 .navbar{
@@ -229,14 +230,15 @@ li{
 
 .myProgress{
   width: 100%;
-  background-color: grey;
+  background-color: #d6d6d6;
   margin-top: 10px;
 }
 
 #anglais, #espagnol, #java, #reseau, #html{
   width: 1%;
   height: 30px;
-  background-color: green;
+  background-color: #4196e0;
+  border-radius: 5%;
 }
 
 #main_competence > p{
