@@ -4,6 +4,10 @@
   color: #4196e0;
 }
 
+li{
+  font-size: 0.7em;
+}
+
 .titre_content{
   width: 100%;
 }
