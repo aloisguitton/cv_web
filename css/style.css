@@ -12,6 +12,7 @@ li{
   width: 100%;
 }
 
+
 /*CSS main.html*/
 
 #main-content{
@@ -181,6 +182,7 @@ li{
 .etablissement{
   margin-top: -12px;
   margin-left: 2%;
+  font-size: 0.8em;
 }
 
 
