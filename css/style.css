@@ -238,7 +238,8 @@ li{
   width: 1%;
   height: 30px;
   background-color: #4196e0;
-  border-radius: 5%;
+  border-bottom-left-radius: 15px;
+  border-top-left-radius: 15px;
 }
 
 #main_competence > p{
