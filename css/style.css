@@ -13,6 +13,12 @@ li{
 }
 
 
+footer{
+  background:#ccc;
+  position:absolute;
+  bottom:0;
+  height:50px;
+}
 
 
 
