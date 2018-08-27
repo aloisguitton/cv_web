@@ -64,7 +64,7 @@ function width_coll(){
   }
   else {
     for( var i = 0; i < nav.length; i++){
-      nav[i].setAttribute("data-toggle", "collapse");
+      nav[i].removeAttribute("data-toggle", "collapse");
     }
   }
 }
