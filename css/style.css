@@ -113,14 +113,14 @@ footer{
 }
 
 #a_propos{
-  color: rgba(135, 54, 255, 1);
+  color: #4196e0;
   font-size: 35px;
   margin-left: 2%;
   font-family: 'Merienda', cursive;
 }
 
 #passe{
-  color: rgba(135, 54, 255, 1);
+  color: #4196e0;
   font-size: 25px;
   margin-left: 2%;
   margin-top: -10px;
