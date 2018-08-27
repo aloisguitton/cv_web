@@ -55,8 +55,8 @@ function move() {
 
 function resize(){
   console.log("resize");
-  var nav-link = document.getElementsByClassName("nav-link");
-  for( var i = 0; i < nav-link.length; i++){
+  var nav = document.getElementsByClassName("nav-link");
+  for( var i = 0; i < nav.length; i++){
     console.log("ok");
   }
 }
