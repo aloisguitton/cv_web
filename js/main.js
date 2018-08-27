@@ -53,10 +53,6 @@ function move() {
     }
 }
 
-function test(){
-  document.getElementById('navbarSupportedContent').style.visibility='hidden';
-}
-
 function resize(){
   console.log("resize");
   var w = window.outerWidth;
