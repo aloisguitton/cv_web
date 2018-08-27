@@ -55,8 +55,12 @@ function move() {
 
 function resize(){
   console.log("resize");
+  var w = window.outerWidth;
   var nav = document.getElementsByClassName("nav-link");
-  for( var i = 0; i < nav.length; i++){
-    nav[i].setAttribute("data-toogle", "collapse");
+
+  if(w <= 991){
+    for( var i = 0; i < nav.length; i++){
+      nav[i].setAttribute("data-toogle", "collapse");
+    }
   }
 }
