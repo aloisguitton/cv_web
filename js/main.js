@@ -57,6 +57,6 @@ function resize(){
   console.log("resize");
   var nav = document.getElementsByClassName("nav-link");
   for( var i = 0; i < nav.length; i++){
-    console.log("ok");
+    nav[i].setAttribute("data-toogle", "collapse");
   }
 }
