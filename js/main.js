@@ -37,18 +37,22 @@ function move() {
         if (width >= 100) {
             clearInterval(id);
         } else{
-            width++; 
+            width++;
             if (width <=80){
               html.style.width = width + '%';
             }
             if (width <= 70){
-              anglais.style.width = width + '%'; 
+              anglais.style.width = width + '%';
               reseau.style.width = width + '%';
-            } 
+            }
             if (width <= 60){
               espagnol.style.width = width + '%';
               java.style.width = width + '%';
             }
         }
     }
+}
+
+function resize(){
+  console.log("resize");
 }
