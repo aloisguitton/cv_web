@@ -64,7 +64,7 @@ function resize(){
 
   if(w <= 991){
     for( var i = 0; i < nav.length; i++){
-      nav[i].setAttribute("data-toogle", "collapse");
+      nav[i].setAttribute("data-toggle", "collapse");
     }
   }
 }
