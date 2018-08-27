@@ -55,9 +55,14 @@ function move() {
 
 function width_coll(){
   var w = window.outerWidth;
+  var nav = document.getElementsByClassName("nav-link");
 
   if(w <= 991){
-    var nav = document.getElementsByClassName("nav-link");
+    for( var i = 0; i < nav.length; i++){
+      nav[i].setAttribute("data-toggle", "collapse");
+    }
+  }
+  else {
     for( var i = 0; i < nav.length; i++){
       nav[i].setAttribute("data-toggle", "collapse");
     }
