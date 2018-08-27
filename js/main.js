@@ -53,9 +53,9 @@ function move() {
     }
 }
 
-function resize(){
+function width_coll(){
   var w = window.outerWidth;
-  
+
   if(w <= 991){
     var nav = document.getElementsByClassName("nav-link");
     for( var i = 0; i < nav.length; i++){
