@@ -30,7 +30,9 @@ function move() {
     var espagnol = document.getElementById("espagnol");
     var java = document.getElementById("java");
     var html = document.getElementById("html");
+    var php = document.getElementById("php");
     var reseau = document.getElementById("reseau");
+    var mysql = document.getElementById("mysql");
     var width = 1;
     var id = setInterval(frame, 10);
     function frame() {
@@ -40,6 +42,7 @@ function move() {
             width++;
             if (width <=80){
               html.style.width = width + '%';
+              php.style.width = width + '%';
             }
             if (width <= 70){
               anglais.style.width = width + '%';
@@ -48,6 +51,7 @@ function move() {
             if (width <= 60){
               espagnol.style.width = width + '%';
               java.style.width = width + '%';
+              mysql.style.width = width + '%';
             }
         }
     }
