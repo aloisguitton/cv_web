@@ -11,7 +11,7 @@
 .navbar{
   height: 92px;
 }
-#main-content, #main_formation{
+#main-content, #main_formation, #main_experience, #main_competence{
   margin-top: 92px;
 }
 
