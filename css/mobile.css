@@ -44,6 +44,9 @@ li > a{
   font-size: 1.6em;
 }
 
+.navbar-collapse{
+  background-color: #4196e0;
+}
 .navbar-toggler-icon{
   height: 45px;
   width: 55px;
