@@ -8,6 +8,10 @@
   width: 65%;
 }
 
+#main-content{
+  margin-top: 92px;
+}
+
 #photo_main{
   max-width: 150px;
 }
