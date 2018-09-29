@@ -8,7 +8,9 @@
   width: 65%;
 }
 
-
+.navbar{
+  height: 92px;
+}
 #main-content{
   margin-top: 92px;
 }
