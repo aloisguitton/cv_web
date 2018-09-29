@@ -45,7 +45,9 @@ li > a{
 }
 
 .navbar-collapse{
-  background-color: #4196e0;
+  background-color: #4196e0e8;
+  margin-left: -16px;
+  margin-right: -16px;
 }
 .navbar-toggler-icon{
   height: 45px;
