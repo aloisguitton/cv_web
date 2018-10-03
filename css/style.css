@@ -1,7 +1,7 @@
 /*CSS all*/
 .titre{
   text-align: center;
-  color: #4196e0;
+  color: #b19877;
 }
 
 .navbar-brand > a{
@@ -60,7 +60,7 @@ footer{
 }
 
 #droite{
-  background-color: #4196e0;
+  background-color: #b19877;
   height: 100%;
   width: 28%;
   float: right;
@@ -96,7 +96,7 @@ footer{
   padding-bottom: 4px;
   padding-top: 4px;
   margin-top: 40px;
-  color: #4196e0;
+  color: #b19877;
   font-size: 16px;
   max-width: 210px;
 }
@@ -113,14 +113,14 @@ footer{
 }
 
 #a_propos{
-  color: #4196e0;
+  color: #b19877;
   font-size: 35px;
   margin-left: 2%;
   font-family: 'Merienda', cursive;
 }
 
 #passe{
-  color: #4196e0;
+  color: #b19877;
   font-size: 25px;
   margin-left: 2%;
   margin-top: -10px;
@@ -161,7 +161,7 @@ footer{
 }
 
 .navbar{
-  background-color: #4196e0 ! important;
+  background-color: #b19877 ! important;
   position: fixed;
   width: 100%;
   z-index: 3;
@@ -203,7 +203,7 @@ footer{
 
 .gras{
   font-weight: bold;
-  color: #4196e0;
+  color: #b19877;
   font-size: 0.7em;
 }
 
@@ -216,7 +216,7 @@ footer{
 
 .date{
   margin-left: 1%;
-  color: #4196e0;
+  color: #b19877;
   font-size: 0.7em;
 }
 
@@ -254,7 +254,7 @@ footer{
 #anglais, #espagnol, #java, #reseau, #html, #php, #mysql{
   width: 1%;
   height: 30px;
-  background-color: #4196e0;
+  background-color: #b19877;
   border-bottom-right-radius: 15px;
   border-top-right-radius: 15px;
 }
