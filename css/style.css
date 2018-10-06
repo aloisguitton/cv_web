@@ -160,7 +160,7 @@ footer{
 }
 
 .navbar{
-  background-color: #b19877 ! important;
+  background-color: #b19877;
   position: fixed;
   width: 100%;
   z-index: 3;
