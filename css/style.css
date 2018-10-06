@@ -165,10 +165,12 @@ footer{
   width: 100%;
   z-index: 3;
   height: 4em;
+  transition: 0.5s;
 }
 
 .brown{
   background-color: #b19877de ! important;
+  transition: 0.8s;
 }
 
 .des_pass{
