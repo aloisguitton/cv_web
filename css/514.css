@@ -5,3 +5,7 @@
 #etudiant_en{
   top: 550px;
 }
+
+#gauche > img{
+  height: 600px;
+}
