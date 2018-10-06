@@ -168,7 +168,11 @@ footer{
 }
 
 .brown{
-  background-color: green !important;
+  background-color: #b19877 ! important;
+  position: fixed;
+  width: 100%;
+  z-index: 3;
+  height: 4em;
 }
 
 .des_pass{
