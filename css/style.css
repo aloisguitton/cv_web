@@ -127,6 +127,13 @@ footer{
   margin-bottom: 25px;
 }
 
+#liste-ecole{
+  margin-left: 50px;
+  margin-top: -31px;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
 #gauche > p{
   left: 8%;
   max-width: 56%;
