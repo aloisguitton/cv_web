@@ -31,6 +31,7 @@ function move() {
     var java = document.getElementById("java");
     var html = document.getElementById("html");
     var php = document.getElementById("php");
+    var js = document.getElementById("js");
     var reseau = document.getElementById("reseau");
     var mysql = document.getElementById("mysql");
     var width = 1;
@@ -47,6 +48,7 @@ function move() {
             if (width <= 70){
               anglais.style.width = width + '%';
               reseau.style.width = width + '%';
+              js.style.width = width + '%';
             }
             if (width <= 60){
               espagnol.style.width = width + '%';
