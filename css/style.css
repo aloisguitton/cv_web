@@ -9,7 +9,7 @@
 }
 
 li{
-  font-size: 0.7em;
+  font-size: 0.6em;
 }
 
 .titre_content{
@@ -207,7 +207,7 @@ footer{
 .etablissement{
   margin-top: -12px;
   margin-left: 2%;
-  font-size: 0.7em;
+  font-size: 0.6em;
 }
 
 
@@ -218,7 +218,7 @@ footer{
 .gras{
   font-weight: bold;
   color: #b19877;
-  font-size: 0.7em;
+  font-size: 0.6em;
 }
 
 .competence{
@@ -231,7 +231,7 @@ footer{
 .date{
   margin-left: 1%;
   color: #b19877;
-  font-size: 0.7em;
+  font-size: 0.6em;
 }
 
 /*CSS experience.html*/
