@@ -213,6 +213,7 @@ footer{
 
 .inline{
   display: flex;
+  margin-top: 30px;
 }
 
 .gras{
