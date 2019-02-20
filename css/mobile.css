@@ -8,6 +8,10 @@
   width: 65%;
 }
 
+li{
+  font-size: 1em;
+}
+
 .navbar{
   height: 92px;
 }
