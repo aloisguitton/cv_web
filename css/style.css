@@ -8,10 +8,6 @@
   color: white !important;
 }
 
-li{
-  font-size: 18px;
-}
-
 .titre_content{
   width: 100%;
 }
@@ -132,6 +128,7 @@ footer{
   margin-top: -31px;
   font-size: 18px;
   margin-bottom: 30px;
+  font-family: 'Quicksand', sans-serif;
 }
 
 #gauche > p{
