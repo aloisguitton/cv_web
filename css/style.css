@@ -4,6 +4,11 @@
   color: #b19877;
 }
 
+li{
+  font-size: 0.6em;
+  font-family: 'Quicksand', sans-serif
+}
+
 .navbar-brand > a{
   color: white !important;
 }
@@ -204,6 +209,7 @@ footer{
   margin-top: -12px;
   margin-left: 2%;
   font-size: 0.6em;
+  font-family: 'Quicksand', sans-serif
 }
 
 
@@ -216,6 +222,7 @@ footer{
   font-weight: bold;
   color: #b19877;
   font-size: 0.6em;
+  font-family: 'Quicksand', sans-serif
 }
 
 .competence{
@@ -229,6 +236,7 @@ footer{
   margin-left: 1%;
   color: #b19877;
   font-size: 0.6em;
+  font-family: 'Quicksand', sans-serif
 }
 
 /*CSS experience.html*/
