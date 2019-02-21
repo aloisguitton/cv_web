@@ -12,7 +12,6 @@
   width: 100%;
 }
 
-
 footer{
   background:#fff;
   width: 100%;
@@ -126,7 +125,7 @@ footer{
 #liste-ecole{
   margin-left: 50px;
   margin-top: -31px;
-  font-size: 18px;
+  font-size: 1em;
   margin-bottom: 30px;
   font-family: 'Quicksand', sans-serif;
 }
@@ -180,7 +179,7 @@ footer{
 
 .des_pass{
   color: black;
-  font-size: 18px;
+  font-size: 1em;
   margin-left: 1%;
   margin-bottom: 40px;
   font-family: 'Quicksand', sans-serif;
